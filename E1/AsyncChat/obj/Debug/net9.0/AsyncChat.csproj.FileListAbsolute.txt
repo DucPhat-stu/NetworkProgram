@@ -1,0 +1,14 @@
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\bin\Debug\net9.0\AsyncChat.exe
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\bin\Debug\net9.0\AsyncChat.deps.json
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\bin\Debug\net9.0\AsyncChat.runtimeconfig.json
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\bin\Debug\net9.0\AsyncChat.dll
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\bin\Debug\net9.0\AsyncChat.pdb
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.AssemblyInfoInputs.cache
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.AssemblyInfo.cs
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.csproj.CoreCompileInputs.cache
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.dll
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\refint\AsyncChat.dll
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.pdb
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\AsyncChat.genruntimeconfig.cache
+C:\Users\Phat\OneDrive\Máy tính\Elearning\AsyncChat\obj\Debug\net9.0\ref\AsyncChat.dll

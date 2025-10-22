@@ -1,0 +1,14 @@
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\bin\Debug\net9.0\BlockingServer.exe
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\bin\Debug\net9.0\BlockingServer.deps.json
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\bin\Debug\net9.0\BlockingServer.runtimeconfig.json
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\bin\Debug\net9.0\BlockingServer.dll
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\bin\Debug\net9.0\BlockingServer.pdb
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.AssemblyInfoInputs.cache
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.AssemblyInfo.cs
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.csproj.CoreCompileInputs.cache
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.dll
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\refint\BlockingServer.dll
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.pdb
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\BlockingServer.genruntimeconfig.cache
+C:\Users\Phat\OneDrive\Máy tính\Elearning\BlockingServer\obj\Debug\net9.0\ref\BlockingServer.dll

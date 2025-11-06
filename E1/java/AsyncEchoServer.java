@@ -5,12 +5,13 @@ import java.util.concurrent.*;
 public class AsyncEchoServer {
     public static void main(String[] args) throws Exception {
         ExecutorService pool = Executors.newFixedThreadPool(4);
-        ServerSocket server = new ServerSocket(5000);
-        System.out.println("Async Server running on port 5000");
+        try (ServerSocket server = new ServerSocket(5000)) {
+            System.out.println("Async Server running on port 5000");
 
-        while (true) {
-            Socket client = server.accept();
-            CompletableFuture.runAsync(() -> handleClient(client), pool);
+            while (true) {
+                Socket client = server.accept();
+                CompletableFuture.runAsync(() -> handleClient(client), pool);
+            }
         }
     }
 

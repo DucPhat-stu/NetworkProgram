@@ -27,10 +27,11 @@ public class ChatClient {
         });
         reader.start();
 
-        Scanner scanner = new Scanner(System.in);
-        while (true) {
-            String msg = scanner.nextLine();
-            client.write(ByteBuffer.wrap(msg.getBytes()));
+        try (Scanner scanner = new Scanner(System.in)) {
+            while (true) {
+                String msg = scanner.nextLine();
+                client.write(ByteBuffer.wrap(msg.getBytes()));
+            }
         }
     }
 }
